@@ -47,12 +47,6 @@ author:
 permalink: /blog/:title
 
 
-### Collections ###
-collections:
-  projects:
-    output: false
-    permalink: /projects/:name
-
 ### Disqus ###
 disqus:
   shortname:ggeolin                     # Your website Shortname on disqus
