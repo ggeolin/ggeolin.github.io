@@ -11,5 +11,5 @@
   color: danger
   
 - name: Japanese
-  percentage: 100
+  percentage: 50
   color: info
