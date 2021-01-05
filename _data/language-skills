@@ -1,11 +1,11 @@
 - name: English
   percentage: 100
   color: secondary 
-  
+
 - name: Cantonese
   percentage: 100
   color: success
-  
+
 - name: Mandarin
   percentage: 100
   color: danger
