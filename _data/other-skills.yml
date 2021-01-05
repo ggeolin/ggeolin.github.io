@@ -2,6 +2,6 @@
   percentage: 90
   color: info
 
-- name: Electrical system diagnosis
+- name: Electronic diagnosis
   percentage: 80
   color: success
